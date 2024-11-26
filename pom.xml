@@ -10,7 +10,9 @@
         <relativePath/>
     </parent>
 
+    <groupId>net.hwyz.iov.cloud.framework</groupId>
     <artifactId>framework-exception-starter</artifactId>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
